@@ -54,6 +54,8 @@ el osciloscopio.
 
 ![6](https://user-images.githubusercontent.com/117534483/219410160-eebf0048-2df6-4eef-8eea-9d82c92b2382.jpeg)
 
+![5](https://user-images.githubusercontent.com/117534483/219420048-6077c83b-5fba-408c-b386-d51d3fecd45d.jpeg)
+
 8.5.4. Responda las siguientes preguntas:
 
 NOTA: Todas las preguntas son relacionadas, por lo que debe considerar las respuestas
