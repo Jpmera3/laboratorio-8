@@ -25,6 +25,10 @@ Determinar experimentalmente las características de señales senoidales.
 -Identificar los elementos principales de la onda de voltaje
 
 8.3 MARCO TEORICO
+
+INFORMACIÓN GENERAL
+
+Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y dirección varían periódicamente. La forma de onda de la corriente alterna más comúnmente utilizada es la de una onda senoidal, puesto que se consigue una transmisión más eficiente de la energía. Generalmente, la corriente alterna se refiere a la forma en la cual la electricidad llega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio transmitidas por los cables eléctricos, son también ejemplos de corriente alterna.
  
 ![image](https://user-images.githubusercontent.com/104911658/219137803-3be64614-2977-4493-ae38-6c072e6d2849.png)
 
