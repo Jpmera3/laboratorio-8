@@ -20,9 +20,9 @@ Determinar experimentalmente las características de señales senoidales.
 
 -Utilizar de forma adecuada el equipo e instrumentos de medición, en este caso el osciloscopio para obtener unas mediciones correctas.
 
--Determinarla validez de la información obtenida con los instrumentos de medición, de manera que pueda discriminarcuales son útiles y cuálesno lo son.
+-Determinarla validez de la información obtenida con los instrumentos de medición, de manera que pueda discriminar cuales son útiles y cuáles no lo son.
 
--Identicar los elementos principales de la onda de voltaje
+-Identificar los elementos principales de la onda de voltaje
 
 8.3 MARCO TEORICO
  
