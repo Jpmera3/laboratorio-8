@@ -88,7 +88,7 @@ f: 2.5(kHz)o 2500(Hz)
 
 ω:5000(rad/s)
 
-![image](https://user-images.githubusercontent.com/117534483/219415832-76a3a396-707a-4728-83a3-bac287f68b28.png)
+![w](https://user-images.githubusercontent.com/117534483/219419420-3db5d61f-ca48-4e9e-be45-98ab5862a7ed.png)
 
 *  8.5.7.	Con el multímetro digital mida el voltaje de salida en RL:
 
