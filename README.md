@@ -106,6 +106,8 @@ El valor Rms es el valor eficaz de la onda senoidal, es decir la raíz de la med
 
 ![Vrms](https://user-images.githubusercontent.com/117534483/219418755-deb3b36c-cedf-47c5-9a9f-39d33a9d4d08.png)
 
+![5](https://user-images.githubusercontent.com/117534483/219420617-1686e30c-403b-40ae-8f4a-032ae3c881b2.jpeg)
+
 8.6.-VIDEO
 
 *  
