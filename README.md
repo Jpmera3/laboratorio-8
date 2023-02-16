@@ -104,11 +104,11 @@ El valor Rms es el valor eficaz de la onda senoidal, es decir la raíz de la med
 
 ![Vrms](https://user-images.githubusercontent.com/117534483/219418755-deb3b36c-cedf-47c5-9a9f-39d33a9d4d08.png)
 
-5.-VIDEO
+8.6.-VIDEO
 
 *  
 
-6.-CONCLUSIONES
+8.7.-CONCLUSIONES
 
 *  Las fuentes de corriente alterna varían en magnitud a lo largo del tiempo describiendo las ondas que muestran el voltaque pico, pico-pico o rms
 
